@@ -1,3 +1,5 @@
+package main.java;
+
 public class VariablesDemo {
     public static void main(String[] args) {
         // This is a Java program to demonstrate variables and primitive types
